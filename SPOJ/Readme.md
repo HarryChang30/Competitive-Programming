@@ -1,1 +1,3 @@
+#SPOJ
+
 Solution from SPOJ
